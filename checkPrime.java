@@ -4,6 +4,7 @@ public class CheckPrime
   
 public static void main(String args[]) 
 { 
+  // check prime using sqrt method
    Scanner s = new Scanner(System.in);
    int a = s.nextInt(); 
    int i =2; 
